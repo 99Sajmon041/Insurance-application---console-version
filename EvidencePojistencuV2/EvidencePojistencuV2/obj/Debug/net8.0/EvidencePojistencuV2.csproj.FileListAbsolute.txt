@@ -1,0 +1,14 @@
+C:\Users\simon\source\repos\99Sajmon041\ITNetwork-projekt\EvidencePojistencuV2\EvidencePojistencuV2\obj\Debug\net8.0\EvidencePojistencuV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\99Sajmon041\ITNetwork-projekt\EvidencePojistencuV2\EvidencePojistencuV2\obj\Debug\net8.0\EvidencePojistencuV2.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\99Sajmon041\ITNetwork-projekt\EvidencePojistencuV2\EvidencePojistencuV2\obj\Debug\net8.0\EvidencePojistencuV2.AssemblyInfo.cs
+C:\Users\simon\source\repos\99Sajmon041\ITNetwork-projekt\EvidencePojistencuV2\EvidencePojistencuV2\obj\Debug\net8.0\EvidencePojistencuV2.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\99Sajmon041\ITNetwork-projekt\EvidencePojistencuV2\EvidencePojistencuV2\bin\Debug\net8.0\EvidencePojistencuV2.exe
+C:\Users\simon\source\repos\99Sajmon041\ITNetwork-projekt\EvidencePojistencuV2\EvidencePojistencuV2\bin\Debug\net8.0\EvidencePojistencuV2.deps.json
+C:\Users\simon\source\repos\99Sajmon041\ITNetwork-projekt\EvidencePojistencuV2\EvidencePojistencuV2\bin\Debug\net8.0\EvidencePojistencuV2.runtimeconfig.json
+C:\Users\simon\source\repos\99Sajmon041\ITNetwork-projekt\EvidencePojistencuV2\EvidencePojistencuV2\bin\Debug\net8.0\EvidencePojistencuV2.dll
+C:\Users\simon\source\repos\99Sajmon041\ITNetwork-projekt\EvidencePojistencuV2\EvidencePojistencuV2\bin\Debug\net8.0\EvidencePojistencuV2.pdb
+C:\Users\simon\source\repos\99Sajmon041\ITNetwork-projekt\EvidencePojistencuV2\EvidencePojistencuV2\obj\Debug\net8.0\EvidencePojistencuV2.dll
+C:\Users\simon\source\repos\99Sajmon041\ITNetwork-projekt\EvidencePojistencuV2\EvidencePojistencuV2\obj\Debug\net8.0\refint\EvidencePojistencuV2.dll
+C:\Users\simon\source\repos\99Sajmon041\ITNetwork-projekt\EvidencePojistencuV2\EvidencePojistencuV2\obj\Debug\net8.0\EvidencePojistencuV2.pdb
+C:\Users\simon\source\repos\99Sajmon041\ITNetwork-projekt\EvidencePojistencuV2\EvidencePojistencuV2\obj\Debug\net8.0\EvidencePojistencuV2.genruntimeconfig.cache
+C:\Users\simon\source\repos\99Sajmon041\ITNetwork-projekt\EvidencePojistencuV2\EvidencePojistencuV2\obj\Debug\net8.0\ref\EvidencePojistencuV2.dll
